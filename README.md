@@ -1,16 +1,32 @@
 ## Hi there 👋
 
-<!--
-**mshanehsaz/mshanehsaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi there 👋 I'm Mohammad
 
-Here are some ideas to get you started:
+💻 **Programming Languages**  
+- 🐍 Python  
+- ☕ Java  
+- ⚙️ C  
+- 🧩 Assembly Language  
+- 🖥️ x86 Assembly  
+- 🌐 HTML  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📊 **Data Tools**  
+- 🐼 Pandas  
+- 🔢 NumPy  
+- 🔧 Git  
+
+🎨 **Design Software**  
+- 🎨 Adobe Illustrator  
+- 🖌️ Adobe Photoshop  
+- 🎬 Adobe Premiere Pro  
+
+📂 **Office Tools**  
+- 📄 Microsoft Word  
+- 📊 Microsoft Excel  
+- 🗂️ Microsoft Office Suite  
+
+---
+
+🌟 I’m a perfectionist programmer and creative technologist who loves bridging **low-level precision** with **high-level design**.  
+I thrive on writing clean, efficient code and crafting visuals that tell a story.  
+Always open to collaboration, feedback, and pushing boundaries 🚀.
